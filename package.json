@@ -1,0 +1,17 @@
+{
+	"name": "expres",
+	"version": "1.0.0",
+	"description": "build test",
+	"start": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"homepage": "",
+	"keywords": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "4.17.1"
+	},
+	"devDependencies": {}
+}
